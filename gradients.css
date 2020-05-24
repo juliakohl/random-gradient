@@ -1,0 +1,76 @@
+/* Gradients */
+.moonlit-asteroid {
+  background: #0F2027;
+  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+}
+.jshine {
+  background: #12c2e9;
+  background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+  background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+}
+.cool-sky {
+  background: #2980B9;
+  background: -webkit-linear-gradient(to right, #d3f3ff, #6DD5FA, #2980B9);
+  background: linear-gradient(to right, #d3f3ff, #6DD5FA, #2980B9);
+}
+.amin {
+  background: #8E2DE2;
+  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
+  background: linear-gradient(to right, #4A00E0, #8E2DE2);
+}
+.harvey {
+  background: #1f4037;
+  background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);
+  background: linear-gradient(to right, #99f2c8, #1f4037);
+}
+.flare {
+  background: #f12711;
+  background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+  background: linear-gradient(to right, #f5af19, #f12711);
+}
+.argon {
+  background: #03001e;
+  background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);
+  background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);
+}
+.orange-coral {
+  background: #ff9966;
+  background: -webkit-linear-gradient(to right, #ff5e62, #ff9966);
+  background: linear-gradient(to right, #ff5e62, #ff9966);
+}
+.shades-of-grey {
+  background: #bdc3c7;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #30475e, #222831);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #30475e, #222831);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.moonlit-asteroid-color {
+  color: #0F2027 !important;
+}
+.jshine-color {
+  color: #12c2e9 !important;
+}
+.cool-sky-color {
+  color: #2980B9 !important;
+}
+.amin-color {
+  color: #8E2DE2 !important;
+}
+.harvey-color {
+  color: #1f4037 !important;
+}
+.flare-color {
+  color: #f12711 !important;
+}
+.argon-color {
+  color: #03001e !important;
+}
+.orange-coral-color {
+  color: #ff9966 !important;
+}
+.shades-of-grey-color {
+  color: #2c3e50;
+}
